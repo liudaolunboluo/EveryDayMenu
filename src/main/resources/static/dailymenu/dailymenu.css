@@ -1,0 +1,24 @@
+body {
+    width: 100%
+}
+
+.cateInput {
+    margin-top: 1%;
+    width: 200%;
+    text-align: center;
+    border: 3px solid #6996BC;
+}
+
+.dishes {
+    margin-left: 24%;
+    margin-top: -28%;
+}
+
+.beginButton {
+    border-radius: 100px;
+    background: cornflowerblue;
+    color: #FFFFFF;
+    border: none;
+    width: 5%;
+    margin-left: -85%;
+}
